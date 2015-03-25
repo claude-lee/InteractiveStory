@@ -1,14 +1,14 @@
-package com.example.claude.interactivestory;
+package com.example.claude.interactivestory.ui;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
+
+import com.example.claude.interactivestory.R;
+import com.example.claude.interactivestory.ui.StoryActivity;
 
 
 public class MainActivity extends Activity {
