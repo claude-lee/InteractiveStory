@@ -9,6 +9,7 @@ import com.example.claude.interactivestory.R;
 
 public class StoryActivity extends Activity {
 
+
     public static final String TAG = StoryActivity.class.getSimpleName();
 
     @Override
