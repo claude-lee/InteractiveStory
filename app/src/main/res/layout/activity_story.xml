@@ -37,7 +37,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Stop and investigate"
+        android:text="STOP AND INVESTIGATE"
         android:id="@+id/choiceButton1"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
@@ -48,7 +48,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Continue home"
+        android:text="CONTINUE HOME TO EARTH"
         android:id="@+id/choiceButton2"
         android:layout_above="@+id/choiceButton1"
         android:layout_alignParentLeft="true"
