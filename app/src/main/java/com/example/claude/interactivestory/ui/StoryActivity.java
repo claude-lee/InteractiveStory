@@ -90,6 +90,7 @@ public class StoryActivity extends Activity {
                 public void onClick(View view) {
                     int nextPage = mCurrentPage.getChoice2().getNextPage();
                     loadPage(nextPage);
+                    
                 }
             });
         }
